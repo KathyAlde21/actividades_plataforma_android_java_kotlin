@@ -1,11 +1,10 @@
-**_<h1 align="center">:vulcan_salute: Actividades en Android Plataforma :computer:</h1>_**
-**_<h1 align="center"> Individuales y Grupales </h1>_**
-**_<h2>Módulo 7 - Desarrollo de Portafolio de un Producto Digital</h2>_**
+**_<h2 align="center">:vulcan_salute: Actividades Plataforma Individuales y Grupales en Android :computer:</h2>_**
+**<h3>Módulo 7 - Desarrollo de Portafolio de un Producto Digital</h3>**
  
 - []-()
 - []-()
 
-**_<h2>Módulo 6 -  Desarrollo de Aplicaciones Empresariales Android</h2>_**
+**<h3>Módulo 6 -  Desarrollo de Aplicaciones Empresariales Android</h3>**
 
 - []-()
 - []-()
@@ -19,7 +18,7 @@
 8. [Test MovieDB]-()
 9. [Sprint - M6]-()
 
-**_<h2>Módulo 5 - Arquitectura y Ciclo de Vida de Componentes Android</h2>_**
+**<h3>Módulo 5 - Arquitectura y Ciclo de Vida de Componentes Android</h3>**
 
 - []-()
 - []-()
@@ -40,7 +39,7 @@
 15. [Instrucciones de la aplicación]-()
 16. [Sprint - M5]-()
 
-**_<h2>Módulo 4 - Desarrollo de la Interfaz de Usuario Android</h2>_**
+**<h3>Módulo 4 - Desarrollo de la Interfaz de Usuario Android</h3>**
 
 - [Ejercicio Individual 1 - Primer Hola Mundo en Android](https://github.com/KathyAlde21/hola_mundo_android)
 - []-()
