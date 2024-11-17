@@ -1,4 +1,5 @@
-**_<h1 align="center">:vulcan_salute: Actividades Android Individuales y Grupales Plataforma :computer:</h1>_**
+**_<h1 align="center">:vulcan_salute: Actividades en Android Plataforma :computer:</h1>_**
+**_<h1 align="center"> Individuales y Grupales </h1>_**
 **_<h2>Módulo 7 - Desarrollo de Portafolio de un Producto Digital</h2>_**
  
 - []-()
