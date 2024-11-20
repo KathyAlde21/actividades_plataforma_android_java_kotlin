@@ -41,9 +41,9 @@
 
 **<h3>Módulo 4 - Desarrollo de la Interfaz de Usuario Android</h3>**
 
-- [Ejercicio Individual 1 - Primer Hola Mundo en Android](https://github.com/KathyAlde21/hola_mundo_android)
-- []-()
-1. [Primer "Hola Mundo" en Android]-()
+- [Ejercicio Individual 1 - Primer 'Hola Mundo' en Android](https://github.com/KathyAlde21/hola_mundo_android)
+- [Ejercicio Individual 2 - Proyecto realizado con anidamiento de Linear Layout y con ImageView - Personajes Marvel](https://github.com/KathyAlde21/individual_dos_marvel)
+
 2. [Disposición de todo el Layout]-()
 3. [Componentes de diseño]-()
 4. [Captura de datos]-()
