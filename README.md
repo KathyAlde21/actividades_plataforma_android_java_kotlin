@@ -41,8 +41,8 @@
 
 - [Ejercicio Individual 1 - Primer 'Hola Mundo' en Android](https://github.com/KathyAlde21/hola_mundo_android)
 - [Ejercicio Individual 2 - Proyecto realizado con anidamiento de Linear Layout y con ImageView - Personajes Marvel](https://github.com/KathyAlde21/individual_dos_marvel)
-- [Ejercicio Individual 3 - Componentes de diseño]-()
-- [Ejercicio Individual 4 - Captura de datos]-()
+- [Ejercicio Individual 3 - Componentes de diseño para Ingreso de Usuario - Nombre, contraseña, email y botón enviar](https://github.com/KathyAlde21/ejercicio_individual_tres_ingreso_usuario)
+- [Ejercicio Individual 4 - Captura de datos - Continuación ejercicio 3](https://github.com/KathyAlde21/ejercicio_individual_cuatro_ingreso_usuario.git)
 - [Ejercicio Individual 5 - Contador]-()
 - [Ejercicio Individual 6 - Selecciona tu primer Pokémon]-()
 - [Ejercicio Individual 6.1 - Notificación tipo Modal]-()
