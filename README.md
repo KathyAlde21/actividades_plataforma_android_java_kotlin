@@ -1,42 +1,10 @@
 **_<h2 align="center">:vulcan_salute: Actividades Plataforma Individuales y Grupales :computer:</h2>_**
 **<h2 align="center">:computer: Android Desarrollados con Java y Kotlin :memo:</h2>**
 
-**<h3>Módulo 7 - Desarrollo de Portafolio de un Producto Digital</h3>**
- 
-- []-()
-- []-()
-
-**<h3>Módulo 6 -  Desarrollo de Aplicaciones Empresariales Android</h3>**
-
-- [Ejercicio Individual 1 - Backend Developer](https://github.com/KathyAlde21/ejercicio_individual_1_modulo_6)
-- [Ejercicio Individual 2 - Frontend Developer](https://github.com/KathyAlde21/ejercicio_individual_2_modulo_6)
-- [Ejercicio Individual 3 - Test API News](https://github.com/KathyAlde21/ejercicio_individual_3_modulo_6)
-- [Ejercicio Individual 4 - Conexión con la API News](https://github.com/KathyAlde21/ejercicio_individual_4_modulo_6)
-- [Ejercicio Individual 5 - App Noticias](https://github.com/KathyAlde21/ejercicio_individual_5_modulo_6)
-- [Ejercicio Individual 6 - Backend MovieDB App](https://github.com/KathyAlde21/ejercicio_individual_6_modulo_6)
-- [Ejercicio Individual 7 - Diseño MovieDB App](https://github.com/KathyAlde21/ejercicio_individual_7_modulo_6)
-- [Ejercicio Individual 8 - Test MovieDB](https://github.com/KathyAlde21/ejercicio_individual_8_modulo_6)
-- [Ejercicio Individual 9 - Sprint - M6](https://github.com/KathyAlde21/sprint_final_modulo_6)
-
 
 **<h3>Módulo 5 - Arquitectura y Ciclo de Vida de Componentes Android</h3>**
 
 - [Ejercicio Individual 1 - Primer proyecto en Kotlin](https://github.com/KathyAlde21/ejercicio_individual_1_modulo_5)
-- [Ejercicio Individual 2 - Precio de entrada al Parque de Diversiones](https://github.com/KathyAlde21/ejercicio_individual_2_modulo_5)
-- [Ejercicio Individual 3 - Datos de usuario](https://github.com/KathyAlde21/ejercicio_individual_3_modulo_5)
-- [Ejercicio Individual 4 - Lista de usuarios](https://github.com/KathyAlde21/ejercicio_individual_4_modulo_5)
-- [Ejercicio Individual 5 - Nueva lista de usuarios filtrada](https://github.com/KathyAlde21/ejercicio_individual_5_modulo_5)
-- [Ejercicio Individual 6 - Sistema de transacciones bancaria](https://github.com/KathyAlde21/ejercicio_individual_6_modulo_5)
-- [Ejercicio Individual 7 - Evento: Mostrar imagen](https://github.com/KathyAlde21/ejercicio_individual_7_modulo_5)
-- [Ejercicio Individual 8 - Colección de imágenes](https://github.com/KathyAlde21/ejercicio_individual_8_modulo_5)
-- [Ejercicio Individual 9 - Calculadora de IMC](https://github.com/KathyAlde21/ejercicio_individual_9_modulo_5)
-- [Ejercicio Individual 10 - ¡Calculo exitoso!](https://github.com/KathyAlde21/ejercicio_individual_10_modulo_5)
-- [Ejercicio Individual 11 - Arquitectura MVVM](https://github.com/KathyAlde21/ejercicio_individual_11_modulo_5)
-- [Ejercicio Individual 12 - Control de errores](https://github.com/KathyAlde21/ejercicio_individual_12_modulo_5)
-- [Ejercicio Individual 13 - Lista de pacientes](https://github.com/KathyAlde21/ejercicio_individual_13_modulo_5)
-- [Ejercicio Individual 14 - Ingreso de datos al paciente](https://github.com/KathyAlde21/ejercicio_individual_14_modulo_5)
-- [Ejercicio Individual 15 - Instrucciones de la aplicación](https://github.com/KathyAlde21/ejercicio_individual_15_modulo_5)
-- [Ejercicio Individual 16 - Sprint - M5](https://github.com/KathyAlde21/sprint_final_modulo_5)
 
 
 **<h3>Módulo 4 - Desarrollo de la Interfaz de Usuario Android</h3>**
